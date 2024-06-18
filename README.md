@@ -223,3 +223,13 @@ void loop() {
 }
 
 ```
+## Project 2
+
+### Alat yang Digunakan
+
+- Raspebrry Pi
+- Sensor DHT22
+- ESP 8266
+- Breadboard
+- Kabel jumper
+- LED
